@@ -6,6 +6,10 @@
 ### 📂 DATA OVERVIEW & STATISTICAL FOUNDATION      
 → The dataset contains 32 analytical variables, including: State, Date, Category, Value, YoY %, Moving Averages (3M/6M/12M), Volatility, Lag variables, Demand Index, and Efficiency score.
 
+<p align="center">
+  <img src="Electricity Analytics Dashboard Pic.png" width="1100" height="500"/>
+</p>
+
 ### 📊 Core Statistical Results
 
 * Total Electricity Consumption: 322.49M+ units
@@ -117,7 +121,7 @@ It transforms 231K+ records into actionable intelligence for energy governance.
 
 🌍 WHY THIS PROJECT MATTERS
 
-→ Electricity drives economic growth, industrial productivity, and public welfare.
+→ Electricity drives economic growth, industrial productivity, and public welfare.    
 → By combining statistical rigor, seasonal modeling, state clustering, and volatility analysis, this project demonstrates how energy analytics can:
 * Improve infrastructure allocation
 * Reduce blackout risks
