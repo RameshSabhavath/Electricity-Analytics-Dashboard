@@ -131,5 +131,5 @@ It transforms 231K+ records into actionable intelligence for energy governance.
 * *Support long-term strategic energy governance*
 
 
-___________________________________ Developed by **RAMESH SABHAVATH** 👨🏼‍💻
+_____________________________ Developed by **RAMESH SABHAVATH** 👨🏼‍💻
 
